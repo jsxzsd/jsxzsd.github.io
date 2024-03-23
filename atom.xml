@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>12班</title>
   
+  <subtitle>班站-101</subtitle>
+  <link href="https://jsxzsd.github.io/atom.xml" rel="self"/>
   
-  <link href="https://xzmfhome.github.io/atom.xml" rel="self"/>
-  
-  <link href="https://xzmfhome.github.io/"/>
+  <link href="https://jsxzsd.github.io/"/>
   <updated>2024-02-19T13:01:26.314Z</updated>
-  <id>https://xzmfhome.github.io/</id>
+  <id>https://jsxzsd.github.io/</id>
   
   <author>
-    <name>lsy</name>
+    <name>流水源主人</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://xzmfhome.github.io/2024/02/19/1/"/>
-    <id>https://xzmfhome.github.io/2024/02/19/1/</id>
+    <link href="https://jsxzsd.github.io/2024/02/19/1/"/>
+    <id>https://jsxzsd.github.io/2024/02/19/1/</id>
     <published>2024-02-19T12:57:50.407Z</published>
     <updated>2024-02-19T13:01:26.314Z</updated>
     
