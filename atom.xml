@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>流水源</title>
+  <title>12班</title>
   
-  
+  <subtitle>流水源提供服务</subtitle>
   <link href="https://xzmfhome.github.io/atom.xml" rel="self"/>
   
   <link href="https://xzmfhome.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://xzmfhome.github.io/</id>
   
   <author>
-    <name>xzbzm</name>
+    <name>lsy</name>
     
   </author>
   
